@@ -1,0 +1,23 @@
+{
+    "key": "group_6197843226e6e",
+    "title": "Theme Settings",
+    "fields": [],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "basrah-general-settings"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1637319742
+}
